@@ -1,3 +1,8 @@
+<?php
+
+echo '<script>alert("testing")</script>';
+  
+?>
 <html>
 <head><title>signup</title>
 <link href="home.css" rel="stylesheet" type="text/css">
