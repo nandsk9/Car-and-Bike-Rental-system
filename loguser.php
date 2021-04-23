@@ -139,7 +139,11 @@
 		
 </body>
 </html>
-		
+<?php
+
+phpinfo();
+
+?>		
 				
 	
 	
