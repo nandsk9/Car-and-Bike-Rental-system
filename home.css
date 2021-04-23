@@ -1,0 +1,66 @@
+li {
+    float: left;
+	}
+
+	li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+
+	li a:hover {
+    background-color: rgba(8, 7, 7, 0.08);
+	}
+	
+	
+	
+	
+	#logo
+	{
+		width:500px;
+		position:absolute;
+		left:1000px;
+		top:40px
+		box-shadow: 5px 5px 8px -1px rgba(0, 0, 0, 0.2);
+	}
+	
+	#car1
+	{
+		position:absolute;
+		top:550px;
+		left:50px;
+		cir-shadow: 0 10px 18px -1px rgba(0, 0, 0, 0.2);
+	}
+	
+	#car2
+	{
+		position:absolute;
+		top:550px;
+		left:250px;
+		
+	}
+	
+	#bike1
+	{
+		position:absolute;
+		top:550px;
+		left:450px;
+		
+	}
+	#bike2
+	{
+		position:absolute;
+		top:550px;
+		left:650px;
+		
+	}
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e0e0e0;
+	box-shadow: 5px 5px 8px -1px rgba(0, 0, 0, 0.2);
+	}
