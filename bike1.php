@@ -1,3 +1,8 @@
+<?php
+
+echo '<script>alert("testing")</script>';
+  
+?>
 <html>
 
 <head>
